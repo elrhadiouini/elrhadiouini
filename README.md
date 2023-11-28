@@ -1,4 +1,5 @@
 👋 Hi, I’m Zakaria @elrhadiouini
+
 👀 I’m deeply immersed in the world of cybersecurity and AI, constantly exploring how artificial intelligence can strengthen information security.
 
 🎓 I’m a final year Master's student at ENSA Kenitra, majoring in Information System's Security, where I hone my skills in advanced security measures and threat analysis.
